@@ -1,0 +1,85 @@
+p {
+  font-size: x-large;
+  color: rgb(255, 255, 255);
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+#b1 {
+  height: 5%;
+  width: 5%;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  margin-left: 40%;
+  font-size: small;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#b1:hover {
+  background-color: rgb(153, 215, 226);
+  color: rgb(0, 0, 0);
+}
+
+#b2 {
+  height: 5%;
+  width: 5%;
+  margin-left: 8%;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  font-size: small;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#b2:hover {
+  background-color: rgb(153, 215, 226);
+  color: rgb(0, 0, 0);
+}
+
+body {
+  background-image: url("https://res.cloudinary.com/twenty20/private_images/t_standard-fit/photosp/fa547a30-2d0a-4909-8ea8-389802888058/stock-photo-night-wall-blue-brick-lamp-wood-bar-neon-effect-fa547a30-2d0a-4909-8ea8-389802888058.jpg");
+  background-size: 100%;
+}
+
+table {
+  margin: 3% 39%;
+}
+
+button {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(144, 219, 46);
+}
+
+#t {
+  font-size: 4rem;
+  font-weight: bold;
+  color: rgb(238, 235, 76);
+}
+
+.b:hover {
+  background-color: lightblue;
+  color: white;
+}
+
+#p1 {
+  height: 6%;
+  width: 6%;
+  color: rgb(57, 241, 88);
+  margin-left: 40%;
+}
+
+#p2 {
+  height: 6%;
+  width: 6%;
+  color: rgb(230, 84, 103);
+  margin-left: 7%;
+}
+
+#p1,
+#p2 {
+  display: inline;
+}
