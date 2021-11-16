@@ -1,0 +1,20 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tic-tac-toe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikumar-27/tic-tac-toe.git"
+  },
+  "author": "Sai Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikumar-27/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/saikumar-27/tic-tac-toe#readme",
+  "keywords": []
+}
