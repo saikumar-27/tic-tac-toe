@@ -1,4 +1,4 @@
- TIC-TAC-TOE
+## TIC-TAC-TOE
  
 ### <a href= https://saikumar-27.github.io/tic-tac-toe/  target="_blank">**Live Demo 🚀**</a>
 
